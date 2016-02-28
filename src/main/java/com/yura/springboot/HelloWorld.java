@@ -7,7 +7,8 @@ import org.springframework.stereotype.Component;
 public class HelloWorld {
 
     public String Say(){
-        System.out.print("githhub");
+
+        System.out.print("githhubb");
         return  "lalalalal1993";
     }
 }
